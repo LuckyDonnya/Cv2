@@ -3,7 +3,7 @@
 <head>
 	<meta charset="UTF-8">
 	<title>Resume/CV Design</title>
-	<link rel="stylesheet" href="{{asset('stylescv.css')}}">
+	<link rel="stylesheet" href="{{ asset('public/stylescv.css' )}}">
   <script src="https://kit.fontawesome.com/b99e675b6e.js"></script>
   <link rel="stylesheet" href="path/to/font-awesome/css/font-awesome.min.css">
 </head>
