@@ -3,7 +3,7 @@
 <head>
 	<meta charset="UTF-8">
 	<title>Resume/CV Design</title>
-	<link rel="stylesheet" href="public/stylescv.css">
+	<link rel="stylesheet" href="stylescv.css">
   <script src="https://kit.fontawesome.com/b99e675b6e.js"></script>
   <!-- <link rel="stylesheet" href="path/to/font-awesome/css/font-awesome.min.css"> -->
 </head>
@@ -12,12 +12,12 @@
 <div class="resume">
    <div class="resume_left">
      <div class="resume_profile">
-       <img src="public/Saifal Asna kesekretariatan  (1).jpg" alt="profile_pic">
+       <img src="Lucky-Donnya.jpg" alt="profile_pic">
      </div>
      <div class="resume_content">
        <div class="resume_item resume_info">
          <div class="title">
-           <p class="bold">Saifal Asna</p>
+           <p class="bold">Lucky Donnya</p>
            <p class="regular">Web Designer | Youtuber</p>
          </div>
          <ul>
@@ -26,7 +26,7 @@
                <i class="fas fa-map-signs"></i>
              </div>
              <div class="data">
-               Aceh Besar <br /> Indonesia
+               Banda Aceh <br /> Indonesia
              </div>
            </li>
            <li>
@@ -34,7 +34,7 @@
                <i class="fas fa-mobile-alt"></i>
              </div>
              <div class="data">
-               +6285285857922
+               +6282211206980
              </div>
            </li>
            <li>
@@ -42,7 +42,7 @@
                <i class="fas fa-envelope"></i>
              </div>
              <div class="data">
-               saifalasna682@gmail.com
+               apamemblem@gmail.com
              </div>
            </li>
            
@@ -143,9 +143,9 @@
         <div class="title">
            <p class="bold">About us</p>
          </div>
-        <p>My Name is Saifal Asna, I'm 22 Years Old, I From indrapuri, Aceh Besar, Indonesia</p>
+        <p>My Name is Lucky Donnya, I'm 22 Years Old, I From Lambhuk, Banda Aceh, Indonesia</p>
         <p>I Graduated from state islamic University of AR-RANIRY From Information Technology</p>
-        <p>My Hoby is Playing Games, Motorcycle ride, and climb</p>
+        <p>My Hoby is Motorcycle ride, and climb</p>
     </div>
     <div class="resume_item resume_work">
         <div class="title">
@@ -153,28 +153,28 @@
          </div>
         <ul>
             <li>
-                <div class="date">2003-2009</div> 
+                <div class="date">2004-2010</div> 
                 <div class="info">
-                     <p class="semi-bold">MIN indrapuri</p> 
+                     <p class="semi-bold">MIN Lambhuk</p> 
                   
                 </div>
             </li>
             <li>
-              <div class="date">2009-2012</div>
+              <div class="date">2010-2013</div>
               <div class="info">
-                     <p class="semi-bold">MTsN Oemar Diyan</p> 
+                     <p class="semi-bold">MTsN Insan Qurani</p> 
                   
                 </div>
             </li>
             <li>
-              <div class="date">2012 - 2015</div>
+              <div class="date">2013 - 2016</div>
               <div class="info">
-                     <p class="semi-bold">SMKN SMTI Banda Aceh</p> 
+                     <p class="semi-bold">Mas Darul Mutaallimin</p> 
                   
                 </div>
             </li>
             <li>
-              <div class="date">2015 - 2020</div>
+              <div class="date">2016 - 2020</div>
               <div class="info">
                      <p class="semi-bold">State Islamic University of AR-RANIRY, Banda Aceh</p> 
                   <p> Information Technology</p>
